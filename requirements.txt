@@ -1,0 +1,8 @@
+pandas
+notebook
+plotly
+matplotlib
+seaborn
+sklearn
+keras
+tensorflow
